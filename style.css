@@ -136,10 +136,7 @@ button svg {
     img{
         height: 15.6rem;
         width: 21.44rem;
-        /* object-fit: cover; */
-        /* object-position: bottom; */
-        /* height: 100%;
-        width: 100%; */
+        background-image: url(./images/image-product-mobile.jpg);
         border-radius: 10px 10px 0px 0px;
 
     }
